@@ -1,0 +1,3 @@
+kartik
+
+mongodb+srv://kartik:grx5c9r(A!d@7.%KB@cluster0.qnhldtp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
